@@ -4,7 +4,7 @@ Repositori ini berisi kode untuk melakukan analisis sentimen terhadap komentar-k
 
 ## Deskripsi
 
-Analisis ini menggunakan dataset yang bersumber dari komentar-komentar pada video YouTube berjudul **"Generasi Muda, Bonus Demografi dan Masa Depan Indonesia"** \[(http://www.youtube.com/watch?v=SzXMacu80o8)\]. Kode dalam repositori ini akan memproses data teks, melakukan *preprocessing*, dan kemudian mengaplikasikan model *machine learning* untuk analisis sentimen. Hasil akhir dari analisis ini adalah visualisasi data yang menunjukkan distribusi sentimen dari para komentator.
+Analisis ini menggunakan dataset yang bersumber dari komentar-komentar pada video YouTube berjudul [**Generasi Muda, Bonus Demografi dan Masa Depan Indonesia**](https://youtu.be/SzXMacu80o8?si=31HYiHIwFV3KmXW7). Kode dalam repositori ini akan memproses data teks, melakukan *preprocessing*, dan kemudian mengaplikasikan model *machine learning* untuk analisis sentimen. Hasil akhir dari analisis ini adalah visualisasi data yang menunjukkan distribusi sentimen dari para komentator.
 
 ## Sumber Data
 
